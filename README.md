@@ -2,3 +2,5 @@
 Weighted Least Squares Regression Analysis <br>
 link : https://youtu.be/x_8aj_ta0x0
 
+## Body_measurement.csv
+Multivariate Data Analysis
