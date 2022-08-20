@@ -11,3 +11,4 @@ Multivariate Data Analysis
 
 ## Choco_candy.csv
 Discrete Choice Conjoint Analysis
+link : https://www.youtube.com/watch?v=ra8Y2FjRqOE
