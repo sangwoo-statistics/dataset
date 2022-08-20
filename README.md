@@ -8,3 +8,6 @@ link : https://www.youtube.com/watch?v=uOWiq25-4z0
 
 ## Body_measurement.csv
 Multivariate Data Analysis
+
+## Choco_candy.csv
+Discrete Choice Conjoint Analysis
